@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img align="center" src="Screenshot at Oct 06 21-52-32.png" />
-  </a>
-</p>
 
 
 
